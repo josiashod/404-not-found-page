@@ -54,5 +54,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@josiashod](https://{github.com/josiashod})
-- Twitter [@josias_hod](https://{twitter.com/josias_hod})
+- GitHub [@josiashod](https://github.com/josiashod)
+- Twitter [@josias_hod](https://twitter.com/josias_hod)
